@@ -1,0 +1,20 @@
+{
+  "id": "howtobeahero",
+  "title": "howtobeahero",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Contains javascript to add functions for the games system (custom system builder). The result will create a complete HowToBeAHero Ruleset.",
+  "authors": [
+    {
+      "name": "GrafSchwarz"
+    }
+  ],
+  "scripts": [
+    "main.js"
+  ],
+  "url": "https://github.com/GrafSchwarz/PnP_Scripts",
+  "manifest": "https://github.com/GrafSchwarz/PnP_Scripts/module.json"
+}
