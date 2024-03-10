@@ -12,9 +12,14 @@
       "name": "GrafSchwarz"
     }
   ],
-  "scripts": [
-    "main.js"
+  "includes": [
+    "./languages/**",
+    "./scripts/**",
+    "./styles/**",
+    "./templates/**",
+    "./README.md"
   ],
+  "esmodules": ["module.js"],
   "url": "https://github.com/GrafSchwarz/PnP_Scripts",
   "manifest": "https://github.com/GrafSchwarz/PnP_Scripts/module.json"
 }
