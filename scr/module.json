@@ -12,6 +12,9 @@
       "name": "GrafSchwarz"
     }
   ],
+  "scripts": [
+    "module.js"
+  ],
   "includes": [
     "./languages/**",
     "./scripts/**",
